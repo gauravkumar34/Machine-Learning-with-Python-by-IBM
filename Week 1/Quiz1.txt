@@ -1,0 +1,52 @@
+ Question 1	Supervised learning deals with unlabeled data, while unsupervised learning deals with labelled data.
+	True
+
+
+ Ans-	False
+
+
+ Question 2	Which of the following is NOT TRUE about Machine Learning?
+
+
+	Machine Learning was inspired by human being learning process.
+
+
+	Machine Learning models iteratively learn from data, and allow computers to find hidden insights.
+
+
+	Machine Learning models help us in tasks such as object recognition, summarization, and recommendation.
+
+
+  Ans-	Machine learning gives computers the ability to make decision by writing down rules and methods and being explicitly programmed.
+
+ Question 3	Which of the following groups are not of Machine Learning techniques?
+
+
+	Classification and Clustering
+
+
+ Ans -	Numpy, Scipy and Scikit-Learn
+
+
+	Anomaly Detection and Recommendation Systems
+
+  Question 4	"Regression" technique in Machine Learning is a group of algorithms that are used for:
+
+
+ Ans-	predicting a continuous value, for example predicting price of a house based on its characteristics.
+
+
+	prediction of class/category of a case, for example a cell is benign or malignant, or a customer will churn or not.
+
+
+	finding items/events that often co-occure, for example grocery items that are usually bought together by a customer.
+
+ Question 5	Comparison of supervised with unsupervised learning, is this sentence TRUE or FALSE?
+
+	In contrast to Supervised learning, Unsupervised learning has more models and more evaluation methods that can be used in order to ensure the outcome of the model is accurate.
+
+
+ Ans-	FALSE
+
+
+	TRUE
